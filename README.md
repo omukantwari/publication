@@ -1,2 +1,5 @@
 # publication
-my first git project
+
+My first git project
+
+I love yougurt; vegetables; and music. 
